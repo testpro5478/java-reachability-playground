@@ -36,6 +36,11 @@ to next java run.*
 
 ### CLI
 ![Snyk CLI Reachable Vulnerabilities](CLI_reachable.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftestpro5478%2Fjava-reachability-playground.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftestpro5478%2Fjava-reachability-playground?ref=badge_shield)
 
 ### Snyk UI
 ![Snyk UI Reachable Vulnerabilities](UI_reachable.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftestpro5478%2Fjava-reachability-playground.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftestpro5478%2Fjava-reachability-playground?ref=badge_large)
